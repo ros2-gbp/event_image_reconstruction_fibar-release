@@ -1,0 +1,15 @@
+ros-kilted-event-image-reconstruction-fibar (3.0.1-1noble) noble; urgency=high
+
+  * added output_bag option to launch script
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@eventvisionresearch.com>  Thu, 15 Jan 2026 05:00:00 -0000
+
+ros-kilted-event-image-reconstruction-fibar (3.0.0-1noble) noble; urgency=high
+
+  * initial release
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@eventvisionresearch.com>  Sat, 06 Dec 2025 05:00:00 -0000
+
+

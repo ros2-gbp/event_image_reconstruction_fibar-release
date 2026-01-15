@@ -1,0 +1,12 @@
+Source: ros-kilted-event-image-reconstruction-fibar
+Section: misc
+Priority: optional
+Maintainer: Bernd Pfrommer <bernd.pfrommer@eventvisionresearch.com>
+Build-Depends: debhelper (>= 9.0.0), libopencv-dev, ros-kilted-ament-cmake, ros-kilted-ament-cmake-auto, ros-kilted-ament-cmake-black <!nocheck>, ros-kilted-ament-cmake-ros, ros-kilted-ament-lint-auto <!nocheck>, ros-kilted-ament-lint-common <!nocheck>, ros-kilted-cv-bridge, ros-kilted-event-camera-codecs, ros-kilted-event-camera-msgs, ros-kilted-fibar-lib, ros-kilted-rclcpp, ros-kilted-rosbag2-cpp, ros-kilted-rosbag2-transport, ros-kilted-sensor-msgs, ros-kilted-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-event-image-reconstruction-fibar
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libopencv-dev, ros-kilted-cv-bridge, ros-kilted-event-camera-codecs, ros-kilted-event-camera-msgs, ros-kilted-fibar-lib, ros-kilted-rclcpp, ros-kilted-rosbag2-cpp, ros-kilted-rosbag2-transport, ros-kilted-sensor-msgs, ros-kilted-ros-workspace
+Description: ROS package for synchronized image reconstruction from event frames
