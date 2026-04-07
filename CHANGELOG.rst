@@ -2,6 +2,12 @@
 Changelog for package event_image_reconstruction_fibar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.4 (2026-04-07)
+------------------
+* remove vcs repos: all in rosdistro now
+* removed include of rosbag2 typesupport_helpers.hpp
+* Contributors: Bernd Pfrommer
+
 3.0.3 (2026-01-15)
 ------------------
 * added dependency on ament_cmake_clang_format
