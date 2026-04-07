@@ -1,3 +1,26 @@
+## event_image_reconstruction_fibar (jazzy) - 3.0.4-1
+
+The packages in the `event_image_reconstruction_fibar` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --ros-distro jazzy event_image_reconstruction_fibar` on `Tue, 07 Apr 2026 14:29:16 -0000`
+
+The `event_image_reconstruction_fibar` package was released.
+
+Version of package(s) in repository `event_image_reconstruction_fibar`:
+
+- upstream repository: https://github.com/ros-event-camera/event_image_reconstruction_fibar.git
+- release repository: https://github.com/ros2-gbp/event_image_reconstruction_fibar-release.git
+- rosdistro version: `3.0.3-1`
+- old version: `3.0.3-1`
+- new version: `3.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## event_image_reconstruction_fibar (humble) - 3.0.4-1
 
 The packages in the `event_image_reconstruction_fibar` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble event_image_reconstruction_fibar` on `Tue, 07 Apr 2026 14:26:05 -0000`
